@@ -1,0 +1,40 @@
+{
+    "users": [{
+            "id": 13453,
+            "name": "Fernando",
+            "firtLastName": "Ferdinand",
+            "secondLastName": "Smith",
+            "age": 15,
+            "gender": "female"
+
+        },
+        {
+            "id": 25,
+            "name": "Mariana",
+            "firtLastName": "Rodriguez",
+            "secondLastName": "Perez",
+            "age": 35,
+            "gender": "female"
+
+        },
+        {
+            "id": 4543,
+            "name": "Eloisa",
+            "firtLastName": "Tevez",
+            "secondLastName": "Silva",
+            "age": 50,
+            "gender": "female"
+
+        },
+        {
+            "id": 242,
+            "name": "Raul",
+            "firtLastName": "Moe",
+            "secondLastName": "Lima",
+            "age": 35,
+            "gender": "male"
+
+        }
+
+    ]
+}
